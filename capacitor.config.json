@@ -1,0 +1,9 @@
+{
+  "appId": "com.awaismirza.expensetracker",
+  "appName": "expense tracker",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {},
+  "windowsAndroidStudioPath": "G:\\jetbrains\\apps\\AndroidStudio\\ch-0\\192.6392135\\bin\\studio64.exe"
+}
